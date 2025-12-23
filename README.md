@@ -24,7 +24,7 @@ The website is designed to be:
 
 ##  Available Subjects
 - Basic Mathematics 
-- Indonesian Language - Cominh Soon
+- Indonesian Language - Coming Soon
 - Science – Coming Soon
 - Social Studies – Coming Soon
 
