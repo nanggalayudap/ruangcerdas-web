@@ -5,7 +5,7 @@
 ![Target](https://img.shields.io/badge/target-Elementary%20School%20-yellow)
 ![Focus](https://img.shields.io/badge/focus-Learning%20%26%20Fun-brightgreen)
 
-A simple and interactive web-based learning platform designed for elementary school students (Grade 4–6).
+A simple and interactive web-based learning platform designed for elementary school students.
 
 
 ##  Project Purpose
