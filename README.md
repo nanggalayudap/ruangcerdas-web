@@ -1,57 +1,57 @@
-# RuangCerdas
+#  RuangCerdas
 
 ![Status](https://img.shields.io/badge/status-MVP-blue)
-![Dibangun Dengan](https://img.shields.io/badge/built%20with-HTML%20%7C%20CSS%20%7C%20JavaScript-orange)
+![Built With](https://img.shields.io/badge/built%20with-HTML%20%7C%20CSS%20%7C%20JavaScript-orange)
 ![Target](https://img.shields.io/badge/target-Elementary%20School%20(Grade%204--6)-yellow)
-![Fokus](https://img.shields.io/badge/focus-Learning%20%26%20Fun-brightgreen)
+![Focus](https://img.shields.io/badge/focus-Learning%20%26%20Fun-brightgreen)
 
-Sebuah platform pembelajaran berbasis web yang sederhana dan interaktif yang dirancang untuk siswa sekolah dasar (Kelas 4–6).
-
-
-## Tujuan Proyek
-Proyek ini bertujuan untuk memberikan pengalaman belajar yang menyenangkan dan menarik bagi siswa sekolah dasar melalui kuis interaktif, mode latihan, dan sistem gamifikasi sederhana untuk memotivasi pembelajaran.
-
-Situs web ini dirancang untuk:
-- Mudah digunakan
-- Ramah secara visual untuk anak-anak
-- Ringan dan dapat diakses tanpa perlu login atau basis data
+A simple and interactive web-based learning platform designed for elementary school students (Grade 4–6).
 
 
-## Pengguna Sasaran
-- Siswa sekolah dasar (Kelas 4–6)
-- Anak-anak yang ingin belajar sambil bermain
+##  Project Purpose
+This project aims to provide a fun and engaging learning experience for elementary school students through interactive quizzes, practice modes, and a simple gamification system to motivate learning.
+
+The website is designed to be:
+- Easy to use
+- Visually friendly for children
+- Lightweight and accessible without login or database
 
 
-## Mata Pelajaran yang Tersedia
-- Matematika Dasar
-- Bahasa Indo
-- Sains – Segera Hadir
-- Studi Sosial – Segera Hadir
+##  Target Users
+- Elementary school students (Grade 4–6)
+- Children who want to learn while playing
 
 
-## Fitur Utama
-- Halaman pemilihan mata pelajaran
-- Mode kuis (dengan skor & bintang)
-- Mode latihan bebas (tanpa tekanan skor)
-- Umpan balik instan untuk jawaban
-- Sistem gamifikasi (skor & bintang)
+##  Available Subjects
+- Basic Mathematics 
+- Indonesian Language
+- Science – Coming Soon
+- Social Studies – Coming Soon
 
-## Teknologi yang Digunakan
-- HTML – Struktur halaman
-- CSS – UI & styling yang ramah anak
-- JavaScript – Logika kuis, sistem penilaian, dan interaktivitas
-- LocalStorage – Penyimpanan data sisi klien
 
-## Status Proyek
-- Versi: MVP (Minimum Viable Product)
-- Pengembangan: Sedang berlangsung
-- Basis data: Tidak digunakan
+##  Main Features
+- Subject selection page
+- Quiz mode (with score & stars)
+- Free practice mode (no score pressure)
+- Instant feedback for answers
+- Gamification system (score & stars)
 
-## Peningkatan di Masa Depan
-- Tambahkan mata pelajaran Sains (IPA) dan Studi Sosial (IPS)
-- Tambahkan efek suara dan animasi sederhana
-- Meningkatkan responsivitas UI
-- Integrasi backend opsional untuk pelacakan kemajuan pengguna
+##  Technologies Used
+- HTML – Page structure
+- CSS – Child-friendly UI & styling
+- JavaScript – Quiz logic, scoring system, and interactivity
+- LocalStorage – Client-side data storage
 
-## Pengembang
+##  Project Status
+- Version: MVP (Minimum Viable Product)
+- Development: Ongoing
+- Database: Not used
+
+##  Future Improvements
+- Add Science (IPA) and Social Studies (IPS) subjects
+- Add sound effects and simple animations
+- Improve UI responsiveness
+- Optional backend integration for user progress tracking
+
+## Developer
 Nanggala Yuda Pratama
