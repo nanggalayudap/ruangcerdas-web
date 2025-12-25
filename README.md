@@ -48,7 +48,7 @@ The website is designed to be:
 - Database: Not used
 
 ##  Future Improvement
-- Add Science (IPA), Indonesian Langiage and Social Studies (IPS) subjects
+- Add Science (IPA), Indonesian Language and Social Studies (IPS) subjects
 - Add simple animations
 - Improve UI responsiveness
 - Optional backend integration for user progress tracking
